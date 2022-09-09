@@ -5,4 +5,4 @@
 • Used different path finding and maze algorithms like Dijkstra's, Depth First Search to find the path in visual form
 
 • Simulated animation for visualisation, UI contains feature of adding weights, walls on the grid, deployed on GitHub
-# https://repo-list.vercel.app
+
